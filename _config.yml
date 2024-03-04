@@ -57,7 +57,8 @@ repository: "melodymale/melodymale.github.io"
 author:
   name             : "Chayutpong Promya"
   avatar           : "/assets/images/avatar.png"
-  bio              : "It's Mel in Melbourne, interested in Cybersecurity"
+  bio              : "It's Mel, interested in Cybersecurity"
+  location         : "Melbourne, VIC"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
