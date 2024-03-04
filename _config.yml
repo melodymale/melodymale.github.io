@@ -87,3 +87,5 @@ defaults:
 permalink: pretty
 
 include: ["_pages"]
+
+timezone: Australia/Melbourne
