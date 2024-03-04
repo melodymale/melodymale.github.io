@@ -18,7 +18,6 @@ minimal_mistakes_skin: air
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-archives
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
