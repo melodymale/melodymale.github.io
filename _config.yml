@@ -18,6 +18,7 @@ minimal_mistakes_skin: air
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-archives
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
@@ -65,6 +66,22 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/chayutpongpro"
+
+include: ["_pages"]
+timezone: Australia/Melbourne
+permalink: pretty
+
+tag_archive:
+  type: liquid
+  path: /tags/
+
+jekyll-archives:
+  enabled:
+    - tags
+  layouts:
+    tag: archive-taxonomy
+  permalinks:
+    tag: /tags/:name/
 
 defaults:
   # _posts
