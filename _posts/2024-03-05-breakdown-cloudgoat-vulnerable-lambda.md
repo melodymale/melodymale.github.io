@@ -311,3 +311,6 @@ Result:
     "SecretString": "cg-secret-XXXXXX-XXXXXX"
 }
 ```
+
+__Warning:__ Do not forget to delete scenario with `./cloudgoat.py destroy vulnerable_lambda`, when you are done.
+{: .notice--warning}
