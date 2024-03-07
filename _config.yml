@@ -99,9 +99,3 @@ defaults:
       layout: single
       author_profile: true
 
-
-permalink: pretty
-
-include: ["_pages"]
-
-timezone: Australia/Melbourne
