@@ -11,4 +11,4 @@ Trying to beat the Australian job market with the result 100% fail (oh naur)
 
 But that's okay, I got a plan. What about start with Cybersecurity instead?
 
-Sound good, let'us get it!!
+Sound good, let's get it!!
