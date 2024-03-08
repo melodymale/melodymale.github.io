@@ -3,15 +3,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Thai backpacker, living in Australia (actually, only in Victoria for now, haha). 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I was a data engineer for 2 years, mainly on developing web API with Python and maintaing pipelines with SQL and Google Cloud Platform.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Trying to beat the Australian job market with the result 100% fail (oh naur)
 
+But that's okay, I got a plan. What about start with Cybersecurity instead?
 
-[jekyll-organization]: https://github.com/jekyll
+Sound good, let'us get it!!
