@@ -1,5 +1,5 @@
 ---
-title:  "Breakdown: CloudGoat Vulnerable Lambda"
+title:  "CloudGoat: Vulnerable Lambda"
 date:   2024-03-05
 tags: cloudsecurity cybersecurity aws
 last_modified_at: 2024-03-08
