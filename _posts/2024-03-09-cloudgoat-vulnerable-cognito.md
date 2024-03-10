@@ -5,7 +5,7 @@ tags: cloudsecurity cybersecurity aws
 last_modified_at: 2024-03-09
 ---
 
-In this scenario, we have the login and signup page which used AWS Cognito Userpool as a backend to store a user data, and AWS Cognito IdentityPool which use Userpool as an identity provider. We can take advantage from misconfiguration of the AWS Cognito Userpool to get the AWS Cognito IdentityPool credentials.
+In this scenario, we were provided the login and signup page which used AWS Cognito Userpool as a backend to store a user data, and AWS Cognito IdentityPool which use Userpool as an identity provider. We can take advantage from misconfiguration of the AWS Cognito Userpool to get the AWS Cognito IdentityPool credentials.
 
 ## Sign up with desired email
 
@@ -44,7 +44,8 @@ After we opened network tab in web browser, go back to login back and login with
 }
 ```
 
-I'm not sure whether we can get the access token in cookies or not, so I use the way above instead. {: .notice}
+I'm not sure whether we can get the access token in cookies or not, so I use the way above instead.
+{: .notice}
 
 ## Get user detail
 To get user data
@@ -85,7 +86,7 @@ Result:
 }
 ```
 
-We can see that one of the custom attributes is `custom:access`. Right now, our user is `reader`. If you investigate further in the html code in the login page, you will see that the user can be `admin`.
+As you can see, one of the custom attributes is `custom:access`. Right now, our user is `reader`. If you investigate further in the html code in the login page, you will see that the user can be `admin`.
 
 ```js
 if(access == 'admin'){
