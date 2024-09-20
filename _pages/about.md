@@ -3,12 +3,10 @@ title: About
 permalink: /about/
 ---
 
-Thai backpacker, living in Australia (actually, only in Victoria for now, haha). 
+Update on 20 Sep 2024
 
-I was a data engineer for 2 years, mainly on developing web API with Python and maintaing pipelines with SQL and Google Cloud Platform.
+Feel dead inside, but try to be cool.
 
-Trying to beat the Australian job market with the result 100% fail (oh naur)
+Have a mobile app idea, not sure that I can do it.
 
-But that's okay, I got a plan. What about start with Cybersecurity instead?
-
-Sound good, let's get it!!
+But I have to commit this change, so I commit to finishing it.
